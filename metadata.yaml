@@ -1,0 +1,32 @@
+_repo: Under-the-absolute-Amir_70787
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Martin, Frank A.
+    gutenberg_agent_id: '55926'
+    url: http://www.gutenberg.org/2009/agents/55926
+description: '"Illustrated by the author’s drawings and photographs, and by other
+  photographs."'
+gutenberg_issued: '2023-05-17'
+identifiers:
+  gutenberg: '70787'
+  lccn: 08016929
+language: en
+pgterms:marc904: https://archive.org/details/underabsoluteami00martuoft
+pgterms:marc905: 20210314055754martin
+pgterms:marc906: '1907'
+pgterms:marc907: gb
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bHarper & Brothers, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh '''Abd al-Rahman Khan, Amir of Afghanistan, -1901'
+- !lcsh 'Afghanistan -- History'
+- !lcsh 'Kabul (Afghanistan)'
+- !lcc 'DS'
+- GITenberg
+title: Under the absolute Amir
+url: http://www.gutenberg.org/ebooks/70787
