@@ -1,5 +1,8 @@
 _repo: Under-the-absolute-Amir_70787
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70787-h/images/cover.jpg
 creator:
   author:
     agent_name: Martin, Frank A.
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/55926
 description: '"Illustrated by the author’s drawings and photographs, and by other
   photographs."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70787#Under-the-absolute-Amir
 gutenberg_issued: '2023-05-17'
 identifiers:
   gutenberg: '70787'
